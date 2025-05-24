@@ -38,8 +38,9 @@ Hello! I'm a passionate Software Engineer with a strong focus on Machine Learnin
 
 ## 📈 GitHub Stats
 
-![Muhammad Shoaib Sattar's GitHub stats](https://github-readme-stats.vercel.app/api?username=**Shoaibrai1**&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=**Shoaibrai1**&layout=compact&theme=github_dark)
+![Muhammad Shoaib Sattar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoaibrai1&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoaibrai1&layout=compact&theme=github_dark)
+
 
 ---
 
